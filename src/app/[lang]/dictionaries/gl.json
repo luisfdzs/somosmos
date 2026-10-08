@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "SomosMos: San Antoiño quere saneamento",
+    "description": "A veciñanza de San Antoiño (Mos) vive sen rede de saneamento. Esta é a nosa pancarta, e esta non nola poden quitar."
+  },
+  "nav": {
+    "problem": "Que pasa",
+    "record": "O que pedimos",
+    "join": "Súmate",
+    "news": "Actualidade",
+    "language": "Idioma"
+  },
+  "hero": {
+    "bannerTop": "San Antoiño",
+    "bannerBottom": "quere saneamento xa",
+    "lead": "Levamos anos colgando pancartas para pedir saneamento e sempre nolas quitan. Esta non nola poden quitar.",
+    "ctaProblem": "Que está a pasar",
+    "ctaRecord": "O que pedimos"
+  },
+  "problem": {
+    "title": "Que está a pasar",
+    "body": [
+      "San Antoiño, no concello de Mos, non ten rede de saneamento. As augas residuais non teñen onde ir e a veciñanza vive rodeada de excrementos.",
+      "Levámolo denunciado durante anos. O concello non deu ningunha solución."
+    ],
+    "photosEmpty": "Axiña publicaremos aquí fotos datadas de como vivimos."
+  },
+  "record": {
+    "title": "O que lle pedimos ao Concello de Mos",
+    "lead": "Cada escrito ten o seu número de rexistro. Aquí queda constancia de todos e de se tiveron resposta.",
+    "registryLabel": "Rexistro de entrada n.º",
+    "noResponse": "Sen resposta",
+    "answered": "Respondido",
+    "empty": "Estamos a reunir os escritos presentados. Publicarémolos aquí co seu número de rexistro e a súa data."
+  },
+  "join": {
+    "title": "Súmate",
+    "body": "Se vives en San Antoiño ou queres apoiarnos, moi axiña poderás sumarte desde aquí."
+  },
+  "news": {
+    "title": "Actualidade",
+    "empty": "Aquí contaremos as próximas accións e todo o que vaia pasando."
+  },
+  "footer": {
+    "about": "Web da veciñanza de San Antoiño (Mos, Pontevedra)."
+  }
+}
